@@ -37,5 +37,5 @@ Task Four: Machine Learning Production.
 > My certificate
 
 <div align="center">
-   <img src="images/images/Forage Congnizant Artificial Intelligence Job Simulation.jpg" alt="word cloud" width="500">
+   <img src="images/images/certificate.jpg" alt="word cloud" width="500">
 </div>
