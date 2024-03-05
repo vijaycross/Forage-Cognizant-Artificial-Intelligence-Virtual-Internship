@@ -37,5 +37,5 @@ Task Four: Machine Learning Production.
 > My certificate
 
 <div align="center">
-   <img src="images/images/certificate.jpg" alt="word cloud" width="500">
+   <img src="images/certificate.jpg" alt="certificate" width="500">
 </div>
